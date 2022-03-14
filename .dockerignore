@@ -1,0 +1,5 @@
+# pastas para ignorar/ não serão repassadas ao container
+
+node_modules
+.git
+.vscode
